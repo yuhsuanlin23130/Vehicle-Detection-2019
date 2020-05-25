@@ -12,5 +12,5 @@ Python3 + Jupyter Notebook
 * ImageNet_ID.txt: 13個類別之ImageNet ID
 * generate_VOCdevkit_format.py: 將資料集與本組標註的xml檔案轉換成VOCdevkit格式。
 * ssd_training.ipynb: train the SSD model。
-* model: the SSD model。
+* model: the SSD model。(Need to extract data.zip and test_data.zip first.)
 * test_result.zip: 測試圖片之預測結果(車種類別與score)，依據預測車種分類。
