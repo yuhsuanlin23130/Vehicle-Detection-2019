@@ -1,0 +1,13 @@
+Ambulance: n02701002
+Taxi: n02930766
+Fire truck: n03345487
+Garbage truck: n03417042
+Minibus: n03769881
+Minivan: n03770679
+Motor scooter: n03791053
+Mountain bike: n03792782
+Moving van: n03796401
+Police van: n03977966
+Tow truck: n04461696
+Trailer truck: n04467665
+Compact car: n03079136
